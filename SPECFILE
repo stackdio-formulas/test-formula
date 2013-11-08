@@ -1,0 +1,7 @@
+title: Test formula
+description: Test formula for stackd.io
+root_path: test
+components:
+  - title: NodeJS
+    description: NodeJS component of the test formula
+    sls_path: test.nodejs
