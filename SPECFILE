@@ -5,3 +5,7 @@ components:
   - title: NodeJS
     description: NodeJS component of the test formula
     sls_path: test.nodejs
+
+  - title: New Component
+    description: foo bar baz
+    sls_path: test.foobarbaz
